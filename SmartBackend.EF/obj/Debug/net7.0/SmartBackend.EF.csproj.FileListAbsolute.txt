@@ -1,0 +1,17 @@
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.EF.deps.json
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.EF.runtimeconfig.json
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.EF.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.EF.pdb
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.CORE.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\bin\Debug\net7.0\SmartBackend.CORE.pdb
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.csproj.AssemblyReference.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.AssemblyInfoInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.AssemblyInfo.cs
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.csproj.CoreCompileInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.csproj.CopyComplete
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\refint\SmartBackend.EF.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.pdb
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\SmartBackend.EF.genruntimeconfig.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.EF\obj\Debug\net7.0\ref\SmartBackend.EF.dll

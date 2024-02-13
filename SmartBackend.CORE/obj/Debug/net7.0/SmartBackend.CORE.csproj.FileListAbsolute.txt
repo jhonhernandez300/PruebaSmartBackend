@@ -1,0 +1,11 @@
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\bin\Debug\net7.0\SmartBackend.CORE.deps.json
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\bin\Debug\net7.0\SmartBackend.CORE.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\bin\Debug\net7.0\SmartBackend.CORE.pdb
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.AssemblyInfoInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.AssemblyInfo.cs
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.csproj.CoreCompileInputs.cache
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\refint\SmartBackend.CORE.dll
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\SmartBackend.CORE.pdb
+C:\Users\jhon\OneDrive\Documentos\Punto net core codigo de ejemplo\PruebaSmartBackend\SmartBackend.CORE\obj\Debug\net7.0\ref\SmartBackend.CORE.dll

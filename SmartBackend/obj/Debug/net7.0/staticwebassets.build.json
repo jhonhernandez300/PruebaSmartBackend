@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BV+LRlXsB+AS97gnaifD1JtSv2pglBHJepDBa+27CFc=",
+  "Source": "SmartBackend.Api",
+  "BasePath": "_content/SmartBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
